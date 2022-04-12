@@ -50,15 +50,17 @@ I like KSP's naming scheme.
 
 ## 0.8 "Formulae"
 
-* Support most basic formulae, must be explicitely enabled on the cell. SUM
+* Support basic formulae, must be explicitely enabled on the cell. SUM, COUNT, IF (-then)
 
 ## 0.9 "Share"
 
 * Executable export. Export a database with the entire program to run it.
+* Plots
 
 ## 1.0 "Collaborate"
 
 * Import and sync databases
+* More formulae
 
 
 ## After 1.0 release
